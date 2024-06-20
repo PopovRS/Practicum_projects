@@ -6,7 +6,7 @@
 
 **Используемые библиотеки**
 
-pandas, Matplotlib, Seaborn, NumPy, SciPt, math 
+pandas, Matplotlib, Seaborn, NumPy, SciPt, math. 
 
 **Описание данных**
 
